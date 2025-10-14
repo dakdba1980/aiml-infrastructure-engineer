@@ -8,10 +8,6 @@ AI/ML Infrastructure Engineer
 - <https://www.mirantis.com/blog/build-ai-infrastructure-your-definitive-guide-to-getting-ai-right>
 - <https://skphd.medium.com/understanding-ai-ml-infrastructure-design-principles-ce6fa7444363>
 
-
-
-
-
 Both roles focus on the operational side of AI/ML systems, but they have different emphases:
 
 ## AI Infrastructure Engineer
