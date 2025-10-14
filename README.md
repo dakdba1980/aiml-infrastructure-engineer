@@ -45,7 +45,7 @@ Both roles focus on the operational side of AI/ML systems, but they have differe
 
 In practice, there's significant overlap, especially at smaller companies where one person might handle both. The AI Infrastructure Engineer tends to be more systems/infrastructure-oriented (think DevOps for AI), while the MLOps Engineer is more focused on the ML lifecycle itself (think DevOps specifically for models). At larger organizations, you might have both roles working together - infrastructure engineers providing the platform, and MLOps engineers using that platform to deploy and manage models.
 
-# Daily work of an AI Infrastructure Engineer
+## Daily work of an AI Infrastructure Engineer
 
 Provisioning GPU clusters on AWS/cloud
 Setting up Kubernetes for ML workloads
@@ -56,7 +56,7 @@ Setting up monitoring and logging for ML systems
 Creating self-service platforms for data science teams
 Ensuring security and compliance
 
-# Common Roles in an AI Infrastructure Team
+## Common Roles in an AI Infrastructure Team
 
 Below is a quick reference for the main roles involved in implementing and managing artificial intelligence infrastructure:
 
